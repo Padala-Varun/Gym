@@ -4,8 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node app.js",
     "dev": "nodemon app.js"
+    "build" : "npm install"
   },
   "author": "varun",
   "license": "ISC",
